@@ -8,4 +8,5 @@ document.getElementById('btn').addEventListener('click',function(){
    if(userEmail == 'sontan@baap.com' && userPassword == 'secret'){
       window.location.href = 'banking.html';
    }
+   
 })
